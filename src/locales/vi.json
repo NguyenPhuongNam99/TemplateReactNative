@@ -1,0 +1,40 @@
+{
+    "auth": {
+      "alert": "Thông báo",
+      "nameNotEmpty": "Tên tài khoản không được để trống.",
+      "emailNotEmpty": "Email không được để trống.",
+      "passNotEmpty": "Mật khẩu không được để trống.",
+      "avatarNotEmpty": "Ảnh đại diện không được để trống.",
+      "minimum": "Tối thiểu 7 ký tự",
+      "repeat": "Mật khẩu không khớp với mật khẩu trên",
+      "signup": "ĐĂNG KÝ",
+      "fullname": "HỌ VÀ TÊN",
+      "firstlastname": "Họ và Tên",
+      "email": "ĐỊA CHỈ EMAIL",
+      "cfpass": "NHẬP LẠI MẬT KHẨU",
+      "pass": " MẬT KHẨU",
+      "cfpassdetail": "Nhập lại mật khẩu trên",
+      "signupemail": "Đăng nhập bằng Email",
+      "social": " Hoặc với mạng xã hội",
+      "login": "ĐĂNG NHẬP",
+      "hithere": "Chào bạn!",
+      "welcome": "Chào mừng trở lại.",
+      "forgot": "QUÊN?",
+      "newaccount": "Tạo tài khoản mới"
+    },
+    "profile": {},
+    "information": {
+      "accessDeny": "Từ chối truy cập.",
+      "close": "Huỷ",
+      "setting": "Cài đặt"
+    },
+    "buying":{
+      "packet1":"1 tháng dùng sản phẩm",
+      "packet2":"2 tháng dùng sản phẩm",
+      "packet3":"3 tháng dùng sản phẩm",
+      "packet4":"Dùng sản phẩm mãi mãi"
+    },
+    "intro":{
+      "introProduct":"Hỗ trợ chúng tôi bằng cách mua tài khoản trả phí để tận hưởng đầy đủ các tính năng như: Xóa quảng cáo & nghe ngoại tuyến. Vui lòng chọn gói của bạn dưới đây:"
+    }
+  }

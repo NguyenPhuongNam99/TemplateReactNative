@@ -1,0 +1,40 @@
+{
+    "auth": {
+      "alert": "Notification",
+      "nameNotEmpty": "Username must not be blank.",
+      "emailNotEmpty": "Email must not be blank.",
+      "passNotEmpty": "Password must not be blank.",
+      "avatarNotEmpty": "Avatar must not be blank.",
+      "minimum": "Minimum 7 characters",
+      "repeat": "Password does not match the password above",
+      "signup": "SIGN UP",
+      "fullname": "FULL NAME",
+      "firstlastname": "First and Last name",
+      "email": "EMAIL ADDRESS",
+      "cfpass": "CONFIRM PASSWORD",
+      "pass": "PASSWORD",
+      "cfpassdetail": "Repeat above password",
+      "signupemail": "Sign up with email",
+      "social": "Or with social",
+      "login": "LOGIN",
+      "hithere": "Hi there!",
+      "welcome": "Welcome back.",
+      "forgot": "FORGOT?",
+      "newaccount": "Create a new account"
+    },
+    "profile": {},
+    "information": {
+      "accessDeny": "Access denied.",
+      "close": "Cancel",
+      "setting": "Settings"
+    },
+    "buying":{
+      "packet1":"1 month of Premium",
+      "packet2":"3 month of Premium",
+      "packet3":"12 month of Premium",
+      "packet4":"Premium Forever !"
+    },
+    "intro":{
+      "introProduct":"Support us by buying premium account to enjoy full features like: Remove ads & offline listening. Please choose your plan below:"
+    }
+  }
